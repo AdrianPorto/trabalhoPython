@@ -2,6 +2,6 @@
 
 ![](https://img.shields.io/badge/-ALUNOS-success?style=for-the-badge)
 
-- Adrian
+- Adrian Gustavo Porto - RA: 978
 - Felipe Oliveira Dos Santos Morais - RA: 1041
 - Guilherme
